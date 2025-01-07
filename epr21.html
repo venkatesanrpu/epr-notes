@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Molecular Spectroscopy</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      	<meta content="IE=Edge" http-equiv="X-UA-Compatible" />
+      	<meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width" />
+        <style type="text/css" media="screen">
+      			html, body	{ height:100%; }
+      			body { margin:0; padding:0; overflow:auto; }
+      			#flashContent { display:none; }
+      			a { color:#aaaaaa}
+        </style>
+
+        <link rel="stylesheet" type="text/css" href="./css/flowpaper.css" />
+	<link rel="stylesheet" type="text/css" href="./css/custom.css" />
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato" />
+        <script type="text/javascript" src="./js/jquery.min.js"></script>
+        <script type="text/javascript" src="./js/jquery.extensions.min.js"></script>
+                        <script type="text/javascript" src="./js/three.min.js"></script>
+                    <script type="text/javascript" src="./js/flowpaper.js"></script>
+        <script type="text/javascript" src="./js/flowpaper_handlers.js"></script>
+</head><body>
+<div id="documentViewer" class="flowpaper_viewer" style="position:absolute;left:10px;top:10px;width:90%;height:100%"></div>
+
+<script type="text/javascript">
+    $('#documentViewer').FlowPaperViewer(
+            { config : {
+                PDFFile     : 'chapters/epr-metalions-21.pdf',
+		EnableWebGL : true,
+		key	: '$ad2bbadb16385f1d4e6',
+                UIConfig : 'UI_Zine-flipbook.xml',
+                BackgroundColor: '#afafaf',
+                PanelColor : '#dd1271',
+                Scale : 0.6,
+                ZoomTransition : 'easeOut',
+                ZoomTime : 0.5,
+                ZoomInterval : 0.1,
+                FitPageOnLoad : true,
+                FitWidthOnLoad : false,
+                FullScreenAsMaxWindow : false,
+                StartAtPage : 1,
+                EnableWebGL : true,
+                ViewModeToolsVisible : true,
+                InitViewMode : 'Portrait',
+                WMode : 'transparent',
+                localeDirectory : 'locale/',
+                BrandingLogo : 'assets_zine/pulogo.png',
+                BrandingUrl : 'https://molecularspectroscopy.powerappsportals.com'
+              }
+    }
+    );
+</script>
+
+   </body>
+</html>

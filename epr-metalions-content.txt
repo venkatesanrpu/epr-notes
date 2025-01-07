@@ -1,0 +1,358 @@
+
+CONTENTS
+
+
+PART I
+
+PRELIMINARY  SURVEY
+
+1.  INTRODUCTION   TO   ELECTRON  PARAMAGNETIC RESONANCE
+
+page
+1.1.     Electronic and  nuclear magnetic dipole  moments                                      1
+1.2.    Hyperfine structure in a free atom or ion                                                     5
+1.3.    Magnetic resonance                                                                                    9
+1.4.    Effective spin  and  anisotropy                                                               10
+1.5.    'Initial  splittings'  or 'fine  structure'                                                    16 l.6.    Magnetic hyperfine structure                                                                         25
+1. 7.   Hyperfine structure  including  nuclear electric  quadrupole inter- action                                                                                                             3l
+1.8.   A simple  example                                                                                   33
+1.9.    Transition group  ions and  ligand fields                                                       39
+1.10.  Spin-spin interaction                                                                                       52
+1.11.  Spin-lattice interaction                                                                                    60
+1.12.  Dynamic nuclear orientation                                                                         74
+1.13.  Endor                                                                                                  87
+1.14.  Experimental aspects                                                                                      92
+
+PART  II
+
+GENERAL  SURVEY
+
+2.  THE  RESONANCE  PHENOMENON
+2.1.    Use of rotating coordinates
+2.2.    Magnetic resonance
+2.3.    Quantum-mechanical analysis
+2.4.    Magnetic resonance in aggregated systems
+2.5.    Adiabatic rapid passage
+2.6.    Relaxation effects
+2.7.    Radio-frequency pulses  and  spin-echoes
+2.8.    Solution of the macroscopic equations for slow passage
+2.9.    Intensity and  line width
+2.10.  Spectrometer sensitivity
+
+3. THE    SPIN   HAMILTONIAN   AND  THE  SPECTRUM
+
+
+95
+96
+98
+102
+104
+108
+113
+115
+119
+125
+3.1.    The  spin Hamiltonian                                                                                   133
+3.2.    The  effect of anisotropy in the g-factor                                                     135
+3.3.    Multipole fine structure                                                                                 139
+3.4.    Fine  structure in cubic  fields  (S  =3,3)                                    142
+3.5.    Electronic 'quadrupole' fine structure  (S  =  1,3)                                    15l
+3.6.    Electronic  'quadrupole' fine structure in a strong magnetic field        156
+3.7.    Hyperfine structure I-introductory remarks                                    163
+x
+
+3.8.
+3.9.
+3.10.
+CONTENTS
+
+Hyperfine structure II-strong external  field                                         167
+Hyperfine structure III-nuclear electric  quadrupole interaction       178
+'Forbidden' hyperfine transitions                                                               186
+3.11.  Ligand hyperfine structure                                                                          192
+3.12.
+The  spectrum of a powder                                                                   200
+3.13.  Effects of crystal imperfections                                                                  205
+3.14.
+Weak-field Zeeman interaction for non-Kramers ions                           209
+
+4.  ELECTRON-NUCLEAR  DOUBLE  RESONANCE
+4.1.     Introduction
+4.2.    The  Endor spectrum
+4.3.    Enhancement of the nuclear transition probability
+4.4.     Endor on donors in silicon
+4.5.    Endor on donors in silicon-relaxation effects
+4.6.     Relaxation effects in Endor-general
+4.7.     The  hyperfine structure  of europium
+4.8.     The  Endor spectrum of Nd+ in LaCl,
+4.9.    Endor measurements  of ligand  hyperfine structure
+4.10.   Endor line widths
+4.11.   'Indirect'  observation  of Endor transitions
+4.12.   Summary
+5.  THE    LANTHANIDE   (4J)   GROUP
+
+(ENDOR)
+
+
+217
+223
+228
+234
+239
+243
+251
+255
+259
+264
+272
+274
+5.1.    Lanthanide compounds                                                                       277
+5.2.    The  free ions                                                                                                   282
+5.3.    Crystalline field theory--Ga symmetry                                                    285
+5.4.    Magnetic  hyperfine structure                                                                      296
+5.5.    Nuclear electric  quadrupole interaction                                                    30l
+5.6.    Experimental results for ethylsulphates and  anhydrous chlorides      303
+5.7.    Experimental  results  for the double nitrates,
+Ln,Mg(NO,),%,  24H.,O                                                                            320
+5.8.    Lanthanide ions  in cubic  symmetry                                                          325
+5.9.    Ions with a half-filled 4f-shell,  4f, Sz. Eu?+,  Gd+, Tb"+                 335
+5.10.   Higher-order terms in the spin  Hamiltonian                                           341
+
+6.  THE  ACTINIDE   (5j)   GROUP
+6.1.     Ions and  compounds of the actinide group                                              346
+6.2.    Tripositive actinide ions                                                                               348
+6.3.    Actinide ions in CaF2                                                                                                                 350
+6.4.    Actinide ions in octahedral symmetry                                                      354
+6.5.    Neptunyl  and  plutonyl ions                                                                        359
+7.  IONS  OF THE  3d  GROUP  IN  INTERMEDIATE LIGAND  FIELDS
+7.1.     Introduction
+7.2.    The  intermediate crystal field approach
+7.3.    The  strong crystal  field approach
+7.4.    The  effects of bonding
+7.5.    The  electronic  spin  Hamiltonian
+365
+372
+377
+392
+398
+CONTENTS                        Xl
+
+7.6.    Magnetic  hyperfine interaction                                                                    406
+7.7.    Nuclear electric  quadrupole and  nuclear Zeeman interaction              414
+7.8.    31.  Ti?+ in an  octahedral field.D,  L  =2,S =}                    417
+7.9.            V3+,  Cr! in an octahedral field. "F,  L  = 3,S  = 1                                    426
+7.10.  33.  V+, Cr+, Mn+ in an  octahedral feld.  4F,  L  = 3,$  =3}            430
+7.11.  3d'.  Cr?+ in an octahedral field. 5D,  L  = 2,S  =2                    434
+7.12.  3d5. Cr',  Mn+,  Fe"+ in an  octahedral feld. S, L =-0,S  =3;          436
+7.13.  3d. Fe?+ in an  octahedral field.  5D,  L  =-2,S  =2                    443
+7.14.  3'.  Fet, Co?+, Ni3+ in an  octahedral field.  4F,  L  =3,s =3         446
+7.15.  3d. Co', N?+,  Cu"?  in an  octahedral field.  "F,  L =3,S  = 1                  449
+7.16.  3. Ni+, Cu?t in an  octahedral field.  2D,  L  =- 2,$   =}              455
+7.17.  3d ions in tetrahedral symmetry                                                                 467
+
+8.  IONS  OF  THE  d-GROUPS  IN  STRONG   LIGAND   FIELDS
+8.1.    The  ions and  their compounds
+8.2.    The strong ligand :field  octahedral complex
+8.3.    Hyperfine interaction
+8.4.    d in strong octahedral fold;  (de),  (ts),S  = }
+8.5.    d in strong octahedral field; (de),          S = 1
+8.6.    d? in strong octahedral field;  (de),  (ta),S  =3
+8.7.    d'  in strong octahedral field; (de),  (t%),S  = l
+8.8.    d' in strong octahedral field; (de),  (t,),S  = }
+8.9.    d" in strong octahedral field; (de),  (t,),S  =0
+8.10.  d? in strong octahedral field; (de)(dy),  (t,)e,S  =
+8.11.  d in strong octahedral field; (de)"(d),  (t,)e,S  = 1
+8.12.  d° in strong octahedral field; (de)"(dy),  (t,)e,S
+d    cubic  (eightfold)  coordination
+472
+476
+478
+478
+479
+479
+480
+48l
+486
+486
+487
+487
+490
+8.13.
+
+9.  SPIN-SPIN   INTERACTION
+9.1.    Introduction
+9.2.    Magnetic dipole-dipole interaction
+9.3.    Exchange interaction
+9.4.    Multipole interactions
+9.5.    Interaction between a pair of similar ions
+9.6.    Interaction between a pair of dissimilar ions
+9.7.    Line  broadening by  spin-spin interaction
+9.8.    Lino shape  due  to  dipolar spin-spin  interaction
+9.9.    Effect of exchange interaction on line shape
+9.10.  Magnetic  dilution, and the spectra of pairs
+9.11.  Temperature-dependent effects
+
+10.  SPIN -PHONON   INTERACTION
+
+
+
+491
+492
+495
+499
+502
+509
+514
+521
+527
+529
+535
+10.l.    The  attainment of thermal equilibrium                                         541
+10.2.    The  phonon radiation bath                                                         547
+10.3.    Spin-lattice relaxation by phononsWaller processes                    55l1
+10.4.    Spin-lattice relaxation by  modulation of the ligand field                 557
+10.5.    Summary and  comparison with experiment                                        565
+10.6.    The  phonon 'bottle-neck'  and  phonon 'avalanche'                         574
+xii                                                                        CONTENTS
+
+PART  III
+
+THEORETICAL  SURVEY
+
+11.  THE  ELECTRONIC  ZEEMAN INTERACTION
+11.1.
+11.2.
+11.3. ll.4.
+11.5.
+11.6.
+11.7.
+The  interaction between electrons and  a magnetic field
+The  Zeeman effect in a free atom (or ion) LS-coupling and  the Land~  formula
+Self-consistent field configurations
+Spin-orbit coupling
+Matrix elements between Slater determinants
+Introduction of the crystal field
+585
+586
+587
+589
+592
+593
+595
+
+12.  GROUP  THEORY-AN   OUTLINE
+12.1.    Invariance and  degeneracy                                                             60l
+12.2.    Linear representations,  equivalence,  and  irreducibility                     602
+12.3.    Orthogonality relations,  characters,  and  classes                                  603
+12.4.    Reduction  of a representation and  calculation of the characters   605
+12.5.    Splitting   of  a  degenerate  level   by   a  perturbation   of lower symmetry                                                                                   607
+12.6.    The  direct product of two representations                                           611
+
+13.  GROUP   THEORY-THE   ROTATION   GROUP
+13.l.    Angular momentum                                                                       615
+13.2.    The  irreducible representations                                                              6l7
+13.3.    The coupling of angular momenta                                                         620
+13.4.    Multiple vector coupling and  Racah symbols                                  622
+13.5.    Irreducible tensor  operators,  the  Wigner-Eckart  theorem,  and equivalent  operators                                                                             624
+
+14.  THE  CUBIC   GROUP  AND  SOME  OTHER   GROUPS
+14.1.    The  cubic  group
+14.2.    The  fictitious angular momentum
+14.3.    'The multiplets  I, and  I, in trigonal axes
+14.4.    The  double  cubic  group
+14.5.    Groups of lower  symmetry
+14.6.    Improper rotations
+
+15.  TIME   REVERSAL   AND KRAMERS  DEGENERACY
+629
+632
+633
+634
+638
+640
+15.1.    Operations involving the time                                                                643
+15.2.    Complex conjugation                                                                       644
+15.3.    Determination of the time reversal operator                                       646
+15.4.    Kramers degeneracy                                                                      647
+15.5.    Time-reversal operator in the [J, M) representation                      649
+15.6.    The  'Spin  Hamiltonian'  for a Kramers doublet                             650
+15.7.    The  rhombic group                                                                                    654
+15.8.    Threefold symmetry                                                                        654
+15.9.    Selection rules  related to time-reversal                                                656
+15.10.  The  effect  of an  applied electric  field on a paramagnetic ion          659
+CONTENTS
+
+16.  ELEMENTARY  THEORY  OF THE  CRYSTAL   FIELD
+16.1.     The  crystal field  (or crystal potential)
+16.2.    Equivalent operators
+16.3.    Off-diagonal matrix elements of the crystal field
+16.4.     The  electronic  Zeeman interaction
+16.5.    Electron  spin-spin  interactions
+xiii
+
+
+665
+670
+676
+677
+678
+
+
+I7.  HYPERFINE  STRUCTURE
+17 .1.    Electrostatic hyperfine interactions                                                       680
+17.2.    Magnetic hyperfine interactions                                                              687
+17.3.    Alternative derivation of the magnetic hyperfine interaction          690
+17.4.    Equivalent operators for the magnetic hyperfine interaction           692
+17.5.    The  effect  of s-electrons:  configuration interaction                             695
+17.6.    The  effect of s-electrons:  core polarization                                           702
+17.7.    Finer effects  in the theory of hyperfine structure                         706
+
+
+18.  IONS  IN  A  WEAK  CRYSTAL   FIELD  (j ELECTRONS)
+18.1.    Kramers ions in a weak  crystal field                                                     7l3
+18.2.    Rare-earth ions in cubic  symmetry                                               719
+18.3.    The  quadruplet r8                                                                                                                  721
+18.4.    Representation  of an  irreducible  tensor within the quadruplet
+Iquadrupole coupling                                                              73l
+18.5.    Non-Kramers ions in the rare-earth group                                            732
+18.6.    Non-Kramers rare-earth  ions in cubic  surroundings                          739
+
+
+19.  INTERMEDIATE   CRYSTAL   FIELDS   (THE   IRON  GROUP)
+19.1.     Effect of the cubic  crystal potential                                                      742
+19.2.     'Singlet'  orbital ground state  (ions of type A)                                    745
+19.3.    Triplet orbital ground state  (ions  of type B)                                       751
+19.4.    Departures from  cubic  symmetry                                                          '755
+19.5.    The  influence  of excited terms                                                        758
+
+
+20.  THE  EFFECTS   OF  COVALENT   BONDING
+20.1.    Summary of the foregoing theory                                                   76l
+20.2.    Tho molecular orbitals model  for covalent bonding                        762
+20.3.    Bonding and  anti-bonding orbitals,  overlap, and  covalency           '764
+20.4.    The  ground states in weakly covalent compounds                         767
+20.5.    Orbital  momentum  and  spin-orbit  coupling in  the presence of covalent bonding                                                                                   773
+20.6.    Ligand hyperfine structure for ions  of type A                                 777
+20.7.    Orbital   singlets:   correction   terms   for  the  ligand  hyperfine structure                                                                                                  78l
+20.8.    Ligand hyperfine structure for ions of type B                                     784
+20.9.    Ligand quadrupole hyperfine structure                                                 788
+XIV                                                                                     CONTENTS
+
+21.  THE  JAHN-TELLER   EFFECT  IN  PARAMAGNETIC RESONANCE
+21.1.    Introduction                                                                                79
+21.2.    The   Born-Oppenheimer   approximation   and   the  Jahn-Teller theorem                                                                                       79!
+21.3.    The  magnetic properties of a PE level                                                   79'
+21.4.    The  static  Jahn-Teller effect in a E state                                          80.
+21.5.    Dynamic features of the static Jahn-Teller effect                              80'
+21.6.    The  dynamic Jahn-Teller effect in a ?E state                                     808
+21.7.    Motional narrowing of the Jahn--Teller spectrum                               826
+21.8.    Comparison with experiment                                                                  83(
+21.9.    The  Jahn-Teller effect in a triplet state                                               83:
+21.10.  The  Jahn--Teller  effect  in an  orbital  triplet with I, coupling       83:
+21.11.  The  Jahn--Teller  effect  in an  orbital  triplet  with  I, coupling         84l
+21.12.  Comparison with experiment                                                                  84€
+
+APPENDIX A.  Thermal and  magnetic  properties of a paramagnetic substance                                                                                                84&
+
+APPENDIX B. Tables I to 26                                                                         85€ BIBLIOGRAPHY                                                                                                87£ AUTHOR INDEX                                                                                   893
+SUBJECT  INDEX                                                                              89£
